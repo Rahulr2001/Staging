@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-a4lamplify-staging-144646-authRole",
+      "UnauthRoleArn": "arn:aws:iam::734843051965:role/amplify-a4lamplify-staging-144646-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::734843051965:role/amplify-a4lamplify-staging-144646-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-a4lamplify-staging-144646-deployment",
+      "UnauthRoleName": "amplify-a4lamplify-staging-144646-unauthRole",
+      "StackName": "amplify-a4lamplify-staging-144646",
+      "StackId": "arn:aws:cloudformation:us-east-2:734843051965:stack/amplify-a4lamplify-staging-144646/2dbbcb70-5123-11ec-9148-0293ac8b1b7a",
+      "AmplifyAppId": "d15d8pwl4mp8au"
+    },
+    "categories": {
+      "function": {
+        "lambdb": {
+          "deploymentBucketName": "amplify-a4lamplify-staging-144646-deployment",
+          "s3Key": "amplify-builds/lambdb-487855316f4638687742-build.zip"
+        }
+      }
+    }
+  }
+}

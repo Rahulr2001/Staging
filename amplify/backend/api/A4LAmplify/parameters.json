@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "A4LAmplify",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
